@@ -1,9 +1,13 @@
+.content .post,
 .content .right_side, 
 .content .content_main .post .post_date, 
 .content .content_main .post_body .post_meta {
 	overflow: hidden;
 }
 
-.content, .footer, .header  {
+.content, 
+.content .post, 
+.footer, 
+.header  {
 	height: 100%;
 }
